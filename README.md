@@ -16,3 +16,5 @@ For more information, please contact us by [info@saturndatacloud.com](mailto:sup
 | # | Dataset Name | Industry | Company Name | Short Description | 
 |---| ----- | -------- | ---------- | ---------- |
 |1|[Tesla charging stations and store locator - worldwide](https://github.com/saturndatacloud/datasets/blob/master/Automative/Tesla/stations%20and%20stores/tesla_stations_and_stores.csv) | Automative | Tesla (TSLA) | The location details of charging stations and stores for Tesla electric vehicles (EV) over the world
+|2|[Blink charging stations - worldwide](https://github.com/saturndatacloud/datasets/blob/master/Automative/Tesla/stations%20and%20stores/tesla_stations_and_stores.csv) | Automative | Blink (BLNK) | The location details of charging stations for Blink over the world
+
