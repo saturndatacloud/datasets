@@ -12,7 +12,7 @@ Alternative Data can be used to obtain insight into the market trends and invest
 
 For more information, please contact us by [info@saturndatacloud.com](mailto:support@saturndatacloud.com) or checkout our [website](https://www.saturndatacloud.com/)
 
-### Sample Datasets
+### Sample Datasets 
 | # | Dataset Name | Industry | Company Name | Short Description | 
-|---| ----- | -------- | ---------- |
+|---| ----- | -------- | ---------- | ---------- |
 |1|[Tesla charging stations and store locator - worldwide](https://github.com/saturndatacloud/datasets/blob/master/Automative/Tesla/stations%20and%20stores/tesla_stations_and_stores.csv) | Automative | Tesla (TSLA) | The location details of charging stations and stores for Tesla electric vehicles (EV) over the world
